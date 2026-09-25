@@ -11,7 +11,7 @@ window.GYM = {
   },
   "headline": "16 weeks from now, your shirt fits different.",
   "lede": "Real trainers, a extensive floor and a plan built around your week. Come in for a free trial and see if it clicks.",
-  "siteUrl": "https://YOUR-USERNAME.github.io/YOUR-REPO/",
+  "siteUrl": "https://transformerfitness.vercel.app/",
   "demo": { "by": "ForgeFirst", "whatsapp": "+91 9520664381" },
 
   "rating": { "value": "4.8", "count": "88" },
